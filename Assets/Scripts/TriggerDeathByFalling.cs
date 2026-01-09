@@ -1,7 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+/*
 public class TriggerDeathByFalling : MonoBehaviour
 {
     [SerializeField] float fallingDistanceThreshold = 1f;
@@ -52,3 +52,4 @@ public class TriggerDeathByFalling : MonoBehaviour
     }
 
 }
+*/
